@@ -13,7 +13,7 @@ services:
 profiles:
   name: hello-world
   mode: provider
-  duration: 2min
+  duration: 10min
   tier:
     - community
   compute:
